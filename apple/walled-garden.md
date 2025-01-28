@@ -13,5 +13,11 @@ Apple introduces "Family" sharing which is useful, but NOT all items are shareab
 * Notes can be shared individually or via folder
 * Calendar can be shared as is with family member(s)
 
+# Partner
+Unfortunetly Apple does NOT sync "contact" information between iCloud family members.  Members can "share" which means send a copy.  The only work around
+currently is to sign in with the same account and just sync contacts.
+
+![Alt Text here](apple-partner.jpg)
+
 ## Reference
 * Basics - https://support.apple.com/en-ca/108380
