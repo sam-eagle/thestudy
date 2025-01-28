@@ -9,5 +9,9 @@ Apple introduces "Family" sharing which is useful, but NOT all items are shareab
 
 ![Alt Text here](apple-family-member.jpg)
 
+* Passwords must be in a "group" to be shared with family member(s)
+* Notes can be shared individually or via folder
+* Calendar can be shared as is with family member(s)
+
 ## Reference
 * Basics - https://support.apple.com/en-ca/108380
