@@ -5,7 +5,9 @@ Intially an Apple ID (aka an account) was meant for services to sync for a singl
 ![Alt text here](apple-simple.jpg)
 
 # Expanded to Family
-Fast forward to the current technological environment and users "want it all".  They want to now share more than "mine to mine" but with close friends or children or partners.   Apple introduces "Family" sharing which is useful, but NOT all items are shareable or follow the same rules for outside of the "garden".
+Apple introduces "Family" sharing which is useful, but NOT all items are shareable or follow the same rules for outside of the "garden".
+
+![Alt Text here](apple-diagrams-Family Member.jpg)
 
 ## Reference
 * Basics - https://support.apple.com/en-ca/108380
