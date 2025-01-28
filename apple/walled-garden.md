@@ -1,5 +1,7 @@
 # Walled Garden
-Intially an Apple ID (aka account) was meant for free services such as
+Intially an Apple ID (aka an account) was meant for services to sync for a single user :
+<br/>
+
 ![Alt text here](apple-simple.jpg)
 
 # Expanded to Family
